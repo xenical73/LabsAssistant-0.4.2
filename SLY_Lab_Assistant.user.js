@@ -20,7 +20,7 @@
 
     let enableAssistant = false;
     let initComplete = false;
-    let rpcEndpoints = ['https://solana-mainnet.g.alchemy.com/v2/WUx8VnwE37Rgv4-4Gd-uIZ9JdmN-Mzyt']
+    let rpcEndpoints = ['https://solana-mainnet.g.alchemy.com/v2/WUx8VnwE37Rgv4-4Gd-uIZ9JdmN-Mzyt','https://rpc.hellomoon.io/9c7e8f36-3a24-497a-bee4-ac083dfff76b']
     //let rpcEndpoints = ['https://rpc.hellomoon.io/cfd5910f-fb7d-4489-9b32-f97193eceefd','https://solana-api.syndica.io/access-token/WPoEqWQ2auQQY1zHRNGJyRBkvfOLqw58FqYucdYtmy8q9Z84MBWwqtfVf8jKhcFh/rpc']
 
     const connectionProxy = {
